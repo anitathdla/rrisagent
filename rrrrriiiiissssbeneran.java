@@ -70,6 +70,9 @@ public class RRISAGENT {
                         
                         if (transportasibali == 1) {
                             System.out.println("[PESAWAT] Jakarta - Bali = IDR 1.539.748.");
+                        else if (transportasibali == 1) {
+                            System.out.println(" ")
+                        }
                         }
                     }
                 }                
@@ -88,3 +91,4 @@ public class RRISAGENT {
                            
                         
                        
+
